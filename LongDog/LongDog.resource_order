@@ -19,5 +19,8 @@
   "ResourceOrderSettings":[
     {"name":"obPlayer_1","order":2,"path":"objects/obPlayer_1/obPlayer_1.yy",},
     {"name":"obPlayer","order":1,"path":"objects/obPlayer/obPlayer.yy",},
+    {"name":"obWall","order":3,"path":"objects/obWall/obWall.yy",},
+    {"name":"spTail","order":1,"path":"sprites/spTail/spTail.yy",},
+    {"name":"spWall","order":2,"path":"sprites/spWall/spWall.yy",},
   ],
 }
