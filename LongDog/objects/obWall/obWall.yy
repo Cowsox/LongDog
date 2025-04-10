@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spWall",
-    "path":"sprites/spWall/spWall.yy",
+    "name":"spWallLight",
+    "path":"sprites/spWallLight/spWallLight.yy",
   },
   "spriteMaskId":null,
   "visible":true,
