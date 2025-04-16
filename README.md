@@ -1,2 +1,2 @@
 # LongDog
-Unity Game about a dog that is LONG.
+GameMaker Studio Game about a dog that is LONG.
