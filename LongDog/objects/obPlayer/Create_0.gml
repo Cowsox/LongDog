@@ -24,7 +24,7 @@ physics_joint_rope_create(id, o_id, x, y, o_id.x, o_id.y, 300, 0);
 physics_fixture_delete(mainFix);
 
 x_force = 50000;
-y_force = 10000;
+y_force = 30000;
 max_x_speed = 10;
 
 jump_buffer = 10;
