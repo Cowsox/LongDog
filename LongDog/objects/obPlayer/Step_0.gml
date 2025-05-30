@@ -17,7 +17,8 @@ if(jump_buffer_count < jump_buffer) {
 // On Ground
 if(place_meeting(x, y + 10, obWall) and jump_buffer_count < jump_buffer) {
 	// Jump!
-	physics_apply_impulse(x, y, 0, -y_force*10000000);
+	physics_apply_impulse(x, y, 0, -y_force);
+	audio_play_sound(sJump, 1000, false, 0.5);
 }
 
 // Clamp max x speed
